@@ -6,7 +6,7 @@ This is a simple laravel employee management app.
 
 ## How to install and run on your local system
 1. git clone https://github.com/frankyroi/bems.git
-2. cd BEMS/
+2. cd bems-main/
 3. composer install
 4. cp .env.example .env
 5. php artisan key:generate
